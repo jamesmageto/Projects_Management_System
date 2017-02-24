@@ -1,1 +1,1 @@
-"# Projects_Management_system"  
+Projects_Management_system is a system to manage all projects within the Nairobi City County Government. Currentlu, it is meant to manage projects within the ICT sector with possible expansion to all other sectors within the county.
